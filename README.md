@@ -2,7 +2,7 @@
 
 # 目次
 - 1章：[アルゴリズムと計算量](https://github.com/shingokmg/tessoku/tree/main/chapter01)（問題 A01～A05／B01～B04）
-- 2章：累積和（問題 A06～A10／B06～B09）
+- 2章：[累積和](https://github.com/shingokmg/tessoku/tree/main/chapter02)（問題 A06～A10／B06～B09）
 - 3章：二分探索（問題 A11～A15／B11～B14）
 - 4章：動的計画法（問題 A16～A25／B16～B24）
 - 5章：数学的問題（問題 A26～A35／B26～B34）
