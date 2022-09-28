@@ -1,6 +1,6 @@
 # A07 - Event Attendance
 # https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_g
-# 累積和
+# 一次元の累積和
 
 D = int(input())
 N = int(input())
