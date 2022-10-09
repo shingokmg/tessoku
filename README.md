@@ -1,4 +1,4 @@
-「[競技プログラミングの鉄則](https://www.amazon.co.jp/dp/B0BDZGDM9J)」の演習問題をPythonで解いていきます。
+「[競技プログラミングの鉄則](https://amzn.to/3VhazPW)」の演習問題をPythonで解いていきます。
 
 # 目次
 - 1章：[アルゴリズムと計算量](https://github.com/shingokmg/tessoku/tree/main/chapter01)（問題 A01～A05／B01～B04）
