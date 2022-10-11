@@ -1,6 +1,6 @@
 「[競技プログラミングの鉄則](https://amzn.to/3VhazPW)」の演習問題をPythonで解いていきます。
 
-# 目次
+## 目次
 - 1章：[アルゴリズムと計算量](https://github.com/shingokmg/tessoku/tree/main/chapter01)（問題 A01～A05／B01～B04）
 - 2章：[累積和](https://github.com/shingokmg/tessoku/tree/main/chapter02)（問題 A06～A10／B06～B09）
 - 3章：二分探索（問題 A11～A15／B11～B14）
